@@ -1,0 +1,6 @@
+transformers 
+torch
+bitsandbytes  
+accelerate 
+replicate 
+streamlit  
