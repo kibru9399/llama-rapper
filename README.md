@@ -12,5 +12,7 @@ Our journey unfolds through distinct stages of refinement:
 3. **The Reward Model:** A specialized 350M parameter model takes center stage, honed through extensive training on prevalent hate speech patterns inherent in rap music. This model acts as a guiding beacon, ensuring authenticity while respecting the nuances and cultural aspects of the rap genre.
 
 4. **Refinement through RLHF:** To temper the inherent propensity for undesirable language, the llama2 model undergoes further refinement. The integration of the reward model acts as a vigilant gatekeeper, instilling a sense of responsibility by discouraging the generation of toxic or inappropriate words.
+[![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=84dYijIpWjQ)
+
  
 
