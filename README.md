@@ -13,8 +13,7 @@ Our journey unfolds through distinct stages of refinement:
 
 4. **Refinement through RLHF:** To temper the inherent propensity for undesirable language, the llama2 model undergoes further refinement. The integration of the reward model acts as a vigilant gatekeeper, instilling a sense of responsibility by discouraging the generation of toxic or inappropriate words.
 [![Video thumbnail](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/v6-qTlTr_ZQ)
-![Alt text for your GIF](ezgif.com-optimize (1).gif)
-
+![ezgif.com-optimize (1).gif](ezgif.com-optimize (1).gif)
 
 
  
